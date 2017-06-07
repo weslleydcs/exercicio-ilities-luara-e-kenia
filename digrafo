@@ -1,0 +1,7 @@
+Luara e Kenia
+	digraph {
+		a -> b;
+		b -> c;
+		c -> d;
+		d -> a;
+}
