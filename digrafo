@@ -4,4 +4,4 @@ Luara e Kenia
 		b -> c;
 		c -> d;
 		d -> a;
-}
+	}
