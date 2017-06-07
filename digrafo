@@ -1,7 +1,19 @@
 Luara e Kenia
 	digraph {
-		a -> b;
-		b -> c;
-		c -> d;
-		d -> a;
+		Debuggability -> Testability;
+		Correctness -> Reability;
+		Correctness -> Robustness;
 	}
+
+Correctness
+Robustness
+Reability
+Affordability
+Learnability
+Usability
+Integrity
+Safety
+Debuggability
+Modularity
+Responsiveness
+Testability
